@@ -10,6 +10,7 @@ section{
     width: 1200px;
    
 }
+
 .half-width{
     width: 35%;
     float: left;
@@ -42,6 +43,9 @@ section{
    float: left;
     width: 31.33%;
     padding: 10px;
+    margin: 5px;
+    box-shadow: 10px 10px 35px steelblue;
+    border-radius: 12px;
 }
 .work img{
     width: 100%;
@@ -51,3 +55,14 @@ section{
     text-align: center;
     font-weight: 700;
 }
+.footer {
+    float: left;
+    padding-top: 255px;
+    text-align: center;
+    height: 325px;
+    width: 525px;
+
+    
+}
+
+
