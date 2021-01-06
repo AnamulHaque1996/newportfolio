@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    width: 1200px;
+   
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin: 4%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.text1{
+    color: crimson;
+}
+.link-button{
+    margin: 15px;
+  
+}
+.button{
+   
+    text-decoration: none;
+    background-color: crimson;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+   
+}
+.letest-work{
+    float: left;
+}
+.work{
+   float: left;
+    width: 31.33%;
+    padding: 10px;
+}
+.work img{
+    width: 100%;
+}
+.letest-text{
+    color: crimson;
+    text-align: center;
+    font-weight: 700;
+}
